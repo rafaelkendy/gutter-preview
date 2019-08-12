@@ -14,6 +14,14 @@ Shows image preview in the gutter and on hover
 
 ### Change Log
 
+-   0.21.1
+    -   Disable reference resolution by default
+-   0.21.0
+    -   Show images defined in constant classes
+-   0.20.0
+    -   Add currentColor configuration support for SVGs
+-   0.19.5
+    -   Fix data uri handling (contribution by @rafaelkendy)
 -   0.19.4
     -   Prepend file protocol to image url in the hover preview (bug fix for Remote - WSL)
 -   0.19.3
